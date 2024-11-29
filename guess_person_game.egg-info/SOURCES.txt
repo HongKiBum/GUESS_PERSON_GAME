@@ -1,0 +1,8 @@
+MANIFEST.in
+README.md
+setup.py
+guess_person_game.egg-info/PKG-INFO
+guess_person_game.egg-info/SOURCES.txt
+guess_person_game.egg-info/dependency_links.txt
+guess_person_game.egg-info/requires.txt
+guess_person_game.egg-info/top_level.txt

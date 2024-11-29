@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: guess_person_game
+Version: 0.1.0
+Summary: A fun guessing game to match people with their images.
+Home-page: https://github.com/YourUserName/GUESS_PERSON_GAME
+Author: HONGKIBUM
+Author-email: hgb9720@hanyang.ac.kr
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: kivy
+
+# Guess Person Game
+
+A fun guessing game to match people with their images.
+
+## Features
+- Interactive gameplay using Kivy
+- Includes default questions and resources
+- Customizable for your own image sets
+
+## Installation
+```bash
+pip install guess_person_game

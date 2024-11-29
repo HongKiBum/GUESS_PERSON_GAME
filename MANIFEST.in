@@ -1,0 +1,3 @@
+include guess_person_game/resources/*.ttf
+include guess_person_game/resources/*.jpg
+recursive-include guess_person_game/resources/person_images *.jpg
